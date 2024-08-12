@@ -6,6 +6,8 @@ Participo regularmente de encontros e discussões focados em C# e .NET, além de
 
 Tenho conhecimento em Programação Orientada a Objetos, ASP.NET Core Web API, .NET, C#, Entity Framework Core e SQL Server.
 
+![kitty-online](https://github.com/user-attachments/assets/70f037f1-c723-45a4-97ba-927d00ddd6b1)
+
 ## Ferramentas e Tecnologias
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>
@@ -22,8 +24,5 @@ Tenho conhecimento em Programação Orientada a Objetos, ASP.NET Core Web API, .
 <a href="https://github.com/HannaNascente">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HannaNascente&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-![Snake animation](https://github.com/HannaNascente/HannaNascente/blob/output/github-contribution-grid-snake.svg)
-          
           
           
