@@ -30,3 +30,4 @@ Tenho conhecimento em Programação Orientada a Objetos, ASP.NET Core Web API, .
 ![Snake animation](https://github.com/HannaNascente/HannaNascente/blob/output/github-snake-dark.svg)
 ![Snake animation](https://github.com/HannaNascente/HannaNascente/blob/output/github-snake.svg)
 ![Snake animation](https://github.com/HannaNascente/HannaNascente/blob/output/ocean.gif)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
